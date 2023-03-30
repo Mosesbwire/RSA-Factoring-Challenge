@@ -18,5 +18,5 @@ It is therefore essential to keep the private key safe and secure to inorder to 
 
 #### References
 
-* [Jared Keago](https://jaredatandi.hashnode.dev/rsa-factoring){:target="\_blank"}
-* [wikipedia](https://en.wikipedia.org/wiki/RSA_(cryptosystem%29)){:target="\_blank"}
+* <a href="https://jaredatandi.hashnode.dev/rsa-factoring" target="_blank">Jared Keago</a>
+* <a href="https://en.wikipedia.org/wiki/RSA_(cryptosystem%29)" target="_blank"> wikipedia</a>
